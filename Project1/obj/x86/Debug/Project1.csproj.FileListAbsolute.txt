@@ -1,0 +1,10 @@
+E:\CarcereAdMortem\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+F:\CarcereAdMortem\Project1\bin\Debug\Project1.exe
+F:\CarcereAdMortem\Project1\bin\Debug\Project1.pdb
+F:\CarcereAdMortem\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+F:\CarcereAdMortem\Project1\obj\x86\Debug\Project1.exe
+F:\CarcereAdMortem\Project1\obj\x86\Debug\Project1.pdb
+E:\CarcereAdMortem\Project1\obj\x86\Debug\Project1.exe
+E:\CarcereAdMortem\Project1\obj\x86\Debug\Project1.pdb
+E:\CarcereAdMortem\Project1\bin\Debug\Project1.exe
+E:\CarcereAdMortem\Project1\bin\Debug\Project1.pdb
